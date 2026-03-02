@@ -6,6 +6,15 @@ Welcome to the definitive guide to keeping [[Plants]] alive — a task that soun
 
 This knowledge base covers everything from the philosophical ("what even IS a plant?") to the deeply practical ("why are all the leaves yellow and should I be worried?"). Spoiler: yes. Yes you should.
 
+This knowledge base serves as a [[Demo]] for [[AS Notes]]. I hope you enjoy this [[Plant Based [[Demo]]]].
+
+### How It Works
+
+```mermaid
+graph LR
+    A[Water] --> B[Put in Sunlight] --> C[Watch Grow]
+```
+
 ### Getting Started
 
 Before rushing out to buy seventeen plants you'll never water, take a moment to educate yourself:
