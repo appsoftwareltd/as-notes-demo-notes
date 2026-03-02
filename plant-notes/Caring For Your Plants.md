@@ -24,6 +24,9 @@ Once you've accepted [[Plants]] into your life (and home), you'll need to get to
 - [[Soil]] — yes, dirt has opinions
 - [[Repotting]] — because roots need space too, same as the rest of us
 
+
+- [ ] Add an item for [[Plant Food]]
+
 ### Plant Profiles
 
 Not all [[Plants]] are created equal. Some are divas. Some are basically indestructible. Learn about specific species before committing:
