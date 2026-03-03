@@ -11,6 +11,7 @@ These [[Plants]] have accepted humanity and evolved to survive our worst habits:
 - **[[Succulent]]** — stores water in its leaves and judges you silently for three months before dying if you overwater it
 - **[[Spider Plant]]** — thrives on neglect, produces offspring chaotically, has never met a window it didn't like
 - **[[Peace Lily]]** — droops dramatically when thirsty but bounces back the moment you water it, like a tiny theatrical friend
+- **[[Dandy Lion]]** — you've seen how many dandy lions there are around right?
 
 ### Normal Mode (Requires Basic Effort)
 
