@@ -9,6 +9,10 @@ aliases:
 
 *Monstera deliciosa* — the Swiss Cheese Plant. Large, theatrical, and deeply aware of how good it looks. The [[Monstera]] has become the icon of the modern houseplant movement and there's a very good reason for that: it's genuinely hard to kill if you give it even a modest amount of attention.
 
+![Monstera Plant](../../assets/images/monstera-wild.webp)
+
+![Monstera Leaves](../../assets/images/monstera-leaves.png)
+
 ## The Famous Holes
 
 The distinctive holes and splits in [[Monstera]] leaves are called **fenestrations**. They evolved to help the plant survive strong winds and let light through to lower leaves in the wild jungle canopy. In your flat they serve no practical purpose whatsoever but look absolutely incredible.

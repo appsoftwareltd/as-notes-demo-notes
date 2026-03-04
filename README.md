@@ -14,3 +14,7 @@ AS Notes: Rebuild Index
 AS Notes is installable via Visual Studio Marketplace: https://marketplace.visualstudio.com/items?itemName=AppSoftwareLtd.as-notes
 
 Report issues at https://github.com/appsoftwareltd/as-notes/issues
+
+## Where to Start?
+
+[Caring For Your Plants](</plant-notes/Caring For Your Plants.md>)
