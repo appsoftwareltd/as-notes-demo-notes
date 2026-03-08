@@ -12,29 +12,36 @@ These [[Plants]] have accepted humanity and evolved to survive our worst habits:
 - **[[Spider Plant]]** — thrives on neglect, produces offspring chaotically, has never met a window it didn't like
 - **[[Peace Lily]]** — droops dramatically when thirsty but bounces back the moment you water it, like a tiny theatrical friend
 - **[[Dandy Lion]]** — you've seen how many dandy lions there are around right?
+- **[[ZZ Plant]]** — practically immortal, tolerates low light and infrequent watering
+- **[[Snake Plant]]** — also known as "Mother-in-Law's Tongue," it survives almost anything
 
 ### Normal Mode (Requires Basic Effort)
 
 - **[[Monstera]]** — stunning, rewarding, needs [[Watering]] occasionally and access to a reasonably bright window
+- **[[Pothos]]** — grows quickly, tolerates a range of light conditions, and forgives the occasional missed watering
+- **[[Philodendron]]** — low-maintenance and adaptable, perfect for beginners
 
 ### Hard Mode (Why Are You Doing This To Yourself)
 
 - Orchids — not covered here. Go and find a specialist. Take water.
 - Bonsai — a commitment measured in decades. Respect.
+- **[[Fiddle Leaf Fig]]** — beautiful but temperamental, needs consistent care and the perfect spot
 
 ## By Position in Your Home
 
-| Location | Suggested [[Plant]] |
-|---|---|
-| Sunny windowsill | [[Succulent]] |
-| Bright indirect light | [[Monstera]] |
-| Low light corner | [[Peace Lily]] |
-| Literally anywhere | [[Spider Plant]] |
+| Location             | Suggested [[Plant]]       |
+|----------------------|---------------------------|
+| Sunny windowsill     | [[Succulent]], [[Cactus]] |
+| Bright indirect light| [[Monstera]], [[Pothos]]  |
+| Low light corner     | [[Peace Lily]], [[ZZ Plant]] |
+| Literally anywhere   | [[Spider Plant]], [[Snake Plant]] |
+| Bathroom             | [[Boston Fern]]           |
+| Office desk          | [[Philodendron]]          |
 
 ## By How You Feel About Watering
 
-- Hate watering → [[Succulent]]
-- Fine with weekly watering → [[Monstera]], [[Peace Lily]]
+- Hate watering → [[Succulent]], [[Snake Plant]], [[ZZ Plant]]
+- Fine with weekly watering → [[Monstera]], [[Peace Lily]], [[Pothos]]
 - Enjoy watering as a hobby → any of them, you'll be fine
 
 ## Feeding Them

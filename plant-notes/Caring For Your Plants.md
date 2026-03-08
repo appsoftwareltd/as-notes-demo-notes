@@ -45,6 +45,32 @@ Not all [[Plants]] are created equal. Some are divas. Some are basically indestr
 - [[Peace Lily]] — thrives on neglect, which is frankly relatable
 - [[Spider Plant]] — produces babies at an alarming rate
 
+### Categorising Plants
+
+Plants, like most living things, are separated into categories:
+
+[[Botanical Classification]]
+
+    Plant categories include:
+
+    - [[Araceae]]
+        - [[Monstera]]
+            - [[Monstera deliciosa]]
+            - [[Monstera adansonii]]
+            - [[Monstera obliqua]]
+        - [[Philodendron]]
+            - [[Philodendron hederaceum]]
+            - [[Philodendron gloriosum]]
+            - [[Philodendron birkin]]
+        - [[Epipremnum]]
+            - [[Epipremnum aureum]]
+        - [[Spathiphyllum]]
+            - [[Spathiphyllum wallisii]]
+        - [[Anthurium]]
+            - [[Anthurium crystallinum]]
+            - [[Anthurium andraeanum]]
+
+
 ### When Things Go Wrong
 
 And they will go wrong. Don't panic. Probably. See:
