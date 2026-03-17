@@ -1,2 +1,5 @@
 .asnotes/
 .asnotesignore
+
+.agentkanban/
+AGENTS.md
