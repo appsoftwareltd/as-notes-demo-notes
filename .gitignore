@@ -3,3 +3,5 @@
 
 .agentkanban/
 AGENTS.md
+
+.sops.yaml
