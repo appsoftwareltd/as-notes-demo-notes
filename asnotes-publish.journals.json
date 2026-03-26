@@ -1,0 +1,16 @@
+{
+    "inputDir": "./journals",
+    "defaultPublic": true,
+    "defaultAssets": true,
+    "layout": "blog",
+    "layouts": "./asnotes-publish.layouts.journals",
+    "includes": "./asnotes-publish.includes.journals",
+    "theme": "dark",
+    "themes": "./asnotes-publish.themes.journals",
+    "baseUrl": "",
+    "retina": false,
+    "includeDrafts": false,
+    "stylesheets": [],
+    "exclude": [],
+    "outputDir": "./journals-publish"
+}

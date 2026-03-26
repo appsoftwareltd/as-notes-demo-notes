@@ -8,7 +8,7 @@
     "theme": "dark",
     "themes": "./asnotes-publish.themes.notes",
     "baseUrl": "",
-    "retina": false,
+    "retina": true,
     "includeDrafts": false,
     "stylesheets": [],
     "exclude": [],
