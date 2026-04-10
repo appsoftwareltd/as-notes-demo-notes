@@ -1,6 +1,7 @@
 {
     "markdown.copyFiles.destination": {
-        "**/*.md": "/assets/images/${fileName}"
+        "**/*.md": "/assets/${fileName}"
     },
-    "as-notes.outlinerMode": true
+    "as-notes.outlinerMode": true,
+    "as-notes.outlinerIndentSize": 2
 }
