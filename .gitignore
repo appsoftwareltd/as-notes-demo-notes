@@ -9,3 +9,8 @@ AGENTS.md
 # Notes publish built in CI/CD
 
 notes-publish/
+
+# VS Code settings / MCP
+
+.vscode/settings.json
+.vscode/mcp.json
