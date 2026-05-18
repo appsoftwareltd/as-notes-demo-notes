@@ -1,0 +1,18 @@
+{
+    "inputDir": "./blog",
+    "defaultPublic": true,
+    "defaultAssets": true,
+    "layout": "blog",
+    "layouts": "./asnotes-publish.layouts.blog",
+    "includes": "./asnotes-publish.includes.blog",
+    "theme": "default",
+    "themes": "./asnotes-publish.themes.blog",
+    "baseUrl": "",
+    "retina": true,
+    "includeDrafts": false,
+    "stylesheets": [],
+    "exclude": [],
+    "outputDir": "./blog-publish",
+    "siteTitle": "A Plant Blog",
+    "staticDir": "static"
+}
