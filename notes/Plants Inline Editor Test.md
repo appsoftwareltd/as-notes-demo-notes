@@ -168,3 +168,41 @@ When outliner mode is active (`Ctrl+Shift+P` then "AS Notes: Toggle Outliner Mod
 - [x] Checked task in outliner mode
   - Nested bullet
   - [ ] Nested unchecked task
+
+## Image Rendering
+
+Image rendering requires mouse hover and some line space beneath the image.
+
+![Monstera Plant](../assets/monstera-wild.webp)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
