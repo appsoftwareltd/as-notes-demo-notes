@@ -32,9 +32,35 @@ Here is a [standard link](https://example.com) to a website. And an [AS Notes li
 
 ### Images
 
-Here is an image reference for hover testing:
+Here is a remote image reference for hover testing:
 
 ![Plant Photo](https://images.unsplash.com/photo-1459411552884-841db9b3cc2a?w=400)
+
+
+Here is a local image for inline display render testing. Note that the image needs additional white space lines below to display.
+
+Control the display size with an Obsidian-style suffix in the alt text:
+
+- `![alt|300](path)` - maximum width 300px, height follows the aspect ratio
+- `![alt|300x200](path)` - explicit width and height
+
+![Monstera Plant|300](../assets/monstera-wild.webp)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Blockquotes
 
@@ -168,41 +194,3 @@ When outliner mode is active (`Ctrl+Shift+P` then "AS Notes: Toggle Outliner Mod
 - [x] Checked task in outliner mode
   - Nested bullet
   - [ ] Nested unchecked task
-
-## Image Rendering
-
-Image rendering requires mouse hover and some line space beneath the image.
-
-![Monstera Plant](../assets/monstera-wild.webp)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
